@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: solid blue;
+    border-radius: 10px;
+}
+
+header a {
+    background-color: red;
+    text-decoration: none;
+    border-radius: 5px;
+    padding:1px;
+}
+
+nav a {
+    color:white;
+    border-radius: 10px;
+    
+   
+}
+
+nav {
+    background-color: brown;
+    border-radius: 10px;
+    margin: 10px;
+    padding:10px;
+}
+
+.production {
+   color: black;
+   border-radius: 10px;
+   font-size: 20px;
+   text-decoration: none;
+   border: 1px solid green;
+   margin: 5px;
+   background-color: red;
+   text-align: center;
+}
